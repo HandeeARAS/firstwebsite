@@ -31,5 +31,63 @@ Yazılım dünyasında yeniyim , her zaman ilgimi çeken bir alan olmuştur . Ko
 </body>
 </html>
 
+<h3> İlgi Alanlarım </h3>
+<!-- İlgi Alanlarımı içermektedir -->
+<ol>
+    <li>
+        Film
+        <ul>
+            <li> 
+                <a href="https://tr.wikipedia.org/wiki/Y%C4%B1ld%C4%B1z_Sava%C5%9Flar%C4%B1" target="_blank">Star Wars</a>
+            </li>
+                 <li>
+                Inception
+                 </li>
+                         <li>
+                         The Pianist
+                         </li>
+        </ul>
+    <li>     
+        Kitap
+        <ul>
+            <li>
+                <a href="https://www.dr.com.tr/Kitap/Seyir/Edebiyat/Roman/Turkiye-Roman/urunno=0001849381001" target="_blank">Seyir</a>
+            </li>
+                <li>
+                Atomik Alışkanlıklar
+                </li>
+                        <li>
+                        Her şey seninle başlar
+                        </li>
+        </ul>
+    <li>
+        Diziler
+        <ul>
+            <li>    
+                <a href="https://www.imdb.com/title/tt0903747/" target="_blank">Breaking Bad</a>
+            </li>
+                <li>
+                Game Of Thrones
+                </li>
+                    <li>
+                    Dexter
+                    </li>
+        </ul>
+        </li>
+        </ol>
         
+  
+  <h2> Sevdiğim Roman </h2>
+<h3> 
+<strong>
+Piraye/ Seyir </strong>
+</h3>
+   
+<img width="200" height="300" src="https://m.media-amazon.com/images/I/61OupL-hraL._AC_UF1000,1000_QL80_.jpg" alt="Piraye - Seyir">
+        
+ 
+        
+
+
+            
            
